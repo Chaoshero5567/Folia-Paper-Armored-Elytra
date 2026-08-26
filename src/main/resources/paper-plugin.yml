@@ -1,0 +1,9 @@
+name: ArmoredElytra
+version: '1.0'
+main: de.chaos.armoredElytra.ArmoredElytra
+api-version: '26.2'
+load: STARTUP
+bootstrapper: de.chaos.armoredElytra.Bootstrap
+loader: de.chaos.armoredElytra.Loader
+
+folia-supported: true

@@ -1,0 +1,12 @@
+/.gradle/
+/.idea/
+/build/
+/build/classes/
+/build/generated/
+/build/libs/
+/build/resources/
+/build/tmp/
+/gradle/
+build.gradle
+gradle.properties
+settings.gradle
